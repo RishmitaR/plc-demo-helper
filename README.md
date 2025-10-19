@@ -5,7 +5,7 @@ very broad. In order to help professors find the best demonstration for their le
 finding the perfect demonstrations for a lecture and ordering a lecture based on a professor's syllabus. The diagram below explains the ideal flow of the final working system.
 
 <p align="left">
-  <img src="https://github.com/RishmitaR/plc-demo-helper/blob/master/plc_agent_framework.png" alt="Topster Chart Example" width="100%">
+  <img src="https://github.com/RishmitaR/plc-demo-helper/blob/master/flow_updated.png" alt="Flow Chart" width="100%">
   <br>
   <em>Flowchart of Agents in Final Working Product</em>
 </p>
