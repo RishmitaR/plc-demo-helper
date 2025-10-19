@@ -7,7 +7,7 @@ finding the perfect demonstrations for a lecture and ordering a lecture based on
 <p align="left">
   <img src="https://github.com/RishmitaR/plc-demo-helper/blob/master/plc_agent_framework.png" alt="Topster Chart Example" width="100%">
   <br>
-  <em>Example of a generated Topsters-style chart</em>
+  <em>Flowchart of Agents in Final Working Product</em>
 </p>
 
 This project is currently very WIP, I'd ideally like to turn this into a streamlit application with a mock UI fed with real class syllabi I've had over the years before pitching 
