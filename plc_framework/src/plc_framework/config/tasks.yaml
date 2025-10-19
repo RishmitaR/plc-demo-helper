@@ -1,0 +1,14 @@
+profile_generation_task:
+  description: 
+    Parse through PDFs of the multiple syllabi of a class that a professor is teaching this semester
+    and generate a profile about this professors semester. The most important things to look out for
+    when parsing the syllabi are the topics being taught in lecture, when the topics are being taught
+    what week (and if you can get it as specific as the dates even better). It is also important that
+    you figure out where the lecture is taking place and what time it takes place. 
+  expected_output: >
+    A profile of the professors semester. This entails how many classes the professor is teaching,
+    the course number for each course, the subject of each course, what time and location they are teaching
+    each cousrse, and what they are teaching each week for each course. If two courses have the same
+    course number but are just at different times - it is the same course subject and the lecture
+    calander should be the same by the week - even if the dates are different. 
+  agent: syllabus_parser

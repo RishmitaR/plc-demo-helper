@@ -1,0 +1,23 @@
+[project]
+name = "plc_framework"
+version = "0.1.0"
+description = "plc-framework using crewAI"
+authors = [{ name = "Your Name", email = "you@example.com" }]
+requires-python = ">=3.10,<3.13"
+dependencies = [
+    "crewai[tools]>=0.119.0,<1.0.0"
+]
+
+[project.scripts]
+plc_framework = "plc_framework.main:run"
+run_crew = "plc_framework.main:run"
+train = "plc_framework.main:train"
+replay = "plc_framework.main:replay"
+test = "plc_framework.main:test"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.crewai]
+type = "crew"
