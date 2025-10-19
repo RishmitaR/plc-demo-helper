@@ -4,5 +4,11 @@ good understanding of what demonstrations we have in our storeroom there are a l
 very broad. In order to help professors find the best demonstration for their lecture I am developing a CrewAI-powered multi-agent system that automates the end-to-end process of 
 finding the perfect demonstrations for a lecture and ordering a lecture based on a professor's syllabus. The diagram below explains the ideal flow of the final working system.
 
+<p align="left">
+  <img src="https://github.com/RishmitaR/plc-demo-helper/blob/master/plc_agent_framework.png" alt="Topster Chart Example" width="50%">
+  <br>
+  <em>Example of a generated Topsters-style chart</em>
+</p>
+
 This project is currently very WIP, I'd ideally like to turn this into a streamlit application with a mock UI fed with real class syllabi I've had over the years before pitching 
 this to my boss as something to implement on our live website.
