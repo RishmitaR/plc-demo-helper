@@ -1,4 +1,4 @@
-The TAMU Physics Lab Center is responsible for setting up labs used in the physics ciriculum, building physics demonstrations, and for delivering physics demonstrations to physics
+The [TAMU Physics Lab Center](https://plc.tamu.edu/) is responsible for setting up labs used in the physics ciriculum, building physics demonstrations, and for delivering physics demonstrations to physics
 professors. We currently have a website with all the physics demonstrations that can be ordered, but the current issue with the PLC website is that unless you already have a 
 good understanding of what demonstrations we have in our storeroom there are a lot of demos that never get ordered because the categorization of demonstrations on our website is 
 very broad. In order to help professors find the best demonstration for their lecture I am developing a CrewAI-powered multi-agent system that automates the end-to-end process of 
